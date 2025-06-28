@@ -1,0 +1,24 @@
+{
+  "name": "chess-live",
+  "version": "1.0.0",
+  "description": "Live multiplayer chess game using MERN, Socket.io, and a Chess Engine",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Garvsharma-codes/chess-live.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Garvsharma-codes/chess-live/issues"
+  },
+  "homepage": "https://github.com/Garvsharma-codes/chess-live#readme",
+  "dependencies": {
+    "chess.js": "^1.4.0",
+    "socket.io": "^4.8.1"
+  }
+}
